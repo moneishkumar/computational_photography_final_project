@@ -1,0 +1,6 @@
+[submodule "3rd_party/mmdetection"]
+	path = 3rd_party/mmdetection
+	url = https://github.com/open-mmlab/mmdetection.git
+[submodule "3rd_party/mmsegmentation"]
+	path = 3rd_party/mmsegmentation
+	url = https://github.com/open-mmlab/mmsegmentation.git
